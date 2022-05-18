@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoInteractive</string>
+    <string name="restart_interactive">Начать заново</string>
+    <string name="interactive_complete">Вы прошли интерактив</string>
+</resources>
